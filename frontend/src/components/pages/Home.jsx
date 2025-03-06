@@ -6,7 +6,7 @@ const Home = () => {
       <section className="hero">
         <h1>Learn Skills for Your Future</h1>
         <p>
-          Discover top-quality courses taught by industry experts and advance your career with EducCart
+          Discover top-quality courses taught by industry experts and advance your career with EduCart
         </p>
         <Link to="/courses" className="btn btn-secondary">
           Explore Courses
